@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Greg"
   avatar           : 
-  bio              : ""
+  bio              : #""
   location         : "Sourthern California"
   employer         : [Mapistry] (https://www.mapistry.com/)
   pubmed           : 
