@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Greg"
-  avatar           : (/images/Greg_Geimer_4.jpg)
+  avatar           : "Geimer_Greg_4.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Sourthern California"
   employer         : [Mapistry] (https://www.mapistry.com/)
