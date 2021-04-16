@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 title: "Resume"
 permalink: /resume/
 author_profile: true
