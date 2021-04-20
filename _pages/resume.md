@@ -35,6 +35,6 @@ Staff Water Resources Engineer
 
 ### Publications
 
-Bradley, A.A., Ashok, K.C.,**Geimer, G.R.**(2018) ”Hydrologic Assessment of the Cedar Creek Wa-tershed,”Tech Report.IIHR — Hydroscience and Engineering
+Bradley, A.A., Ashok, K.C., **Geimer, G.R.**(2018) ”Hydrologic Assessment of the Cedar Creek Wa-tershed,”Tech Report.IIHR — Hydroscience and Engineering
 
-Rundhaug,  T.J.,**Geimer, G.R.**,  Drake,  C.W.,  Amado,  A.A.,  Bradley,  A.A.,  Wolter,  C.F.,  Weber,L.J.(2018) ”Agricultural Conservation Practices in Iowa Watersheds: Comparing Actual Implemen-tation with Practice Potential,” Environmental Monitoring and Assessment.
+Rundhaug,  T.J., **Geimer, G.R.**,  Drake,  C.W.,  Amado,  A.A.,  Bradley,  A.A.,  Wolter,  C.F.,  Weber,L.J.(2018) ”Agricultural Conservation Practices in Iowa Watersheds: Comparing Actual Implemen-tation with Practice Potential,” Environmental Monitoring and Assessment.
