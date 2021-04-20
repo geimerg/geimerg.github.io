@@ -7,14 +7,14 @@ author_profile: true
 
 ### Employment
 
-Present   
-Mapistry  
+- [**Mapistry**] (https://mapistry.com), 2021 - Present  
 Senior Staff Engineer 
-
-Previous  
-Geosyntec Consultants 
-2018 - 2021 
+  
+- [**Geosyntec Consultants**] (https://https://www.geosyntec.com/) 
+2019 - 2021 
 Senior Staff Water Resources Engineer   
+2018 - 2019
+Staff Water Resources Engineer
 
 ### Education
 
